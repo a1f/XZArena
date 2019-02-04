@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/editors/DynamicEditor.class" line="0" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3a862d3e-a23d-48c6-8318-77cf9eebb9ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/arena_client_7_1_3__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/arena_shared_7_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/compeng_common_1_2_4__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/custom_serialization_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/xzarena.xz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tests.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/arena_client_7_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/arena_shared_7_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/basic_type_serialization_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/basic_type_serialization_1_0_1__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/client_socket_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/EditorPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/EditorPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/XZArena.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/XZArena.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/xz-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/xz-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EditorPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EditorPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XZArena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/XZArena.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -34,6 +61,19 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="xz" type="f1a62948:ProjectNode" />
                 <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="xz" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="xz" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -84,31 +124,119 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.55708045">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/frames/CodingFrame.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="461">
+                  <caret line="877" column="46" selection-start-line="877" selection-start-column="27" selection-end-line="877" selection-end-column="46" />
+                  <folding>
+                    <element signature="e#0#45030#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/lib/arena-shared-7.5.6.jar!/com/topcoder/client/render/ProblemComponentRenderer.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="108">
+                  <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/lib/arena-shared-7.5.6.jar!/com/topcoder/client/render/BaseRenderer.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="108">
+                  <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/lib/arena-shared-7.5.6.jar!/com/topcoder/shared/problem/ElementRenderer.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="72">
+                  <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/XZArena.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="234">
+                  <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+                  <folding>
+                    <element signature="e#194#195#0" expanded="true" />
+                    <element signature="e#274#275#0" expanded="true" />
+                    <element signature="e#1659#1660#0" expanded="true" />
+                    <element signature="e#1730#1731#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/resources/tests.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="108">
+                  <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/CodeGenerator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="720">
+                  <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/build/classes/java/main/CodeGenerator.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="206">
+                  <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/resources/tests.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="396">
+                  <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/build/resources/main/tests.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="144">
+                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,76 +245,315 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>generate</find>
+      <find>generate c</find>
+      <find>start</find>
+      <find>log</find>
+      <find>problem</find>
+      <find>getSource</find>
+      <find>network</find>
+      <find>entryPoint</find>
+      <find>EditorPlugin</find>
+      <find>setProblemComponent</find>
+      <find>setPro</find>
+      <find>test</find>
+      <find>methodName</find>
+      <find>parameters</find>
+      <find>generateSolution</find>
+      <find>paramList</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/lib</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/XZArena.java" />
         <option value="$PROJECT_DIR$/src/main/java/CustomSerializable.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/EditorPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/tests.cpp" />
+        <option value="$PROJECT_DIR$/src/main/java/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/XZArena.java" />
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="xz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XZArena" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
-              <item name="xz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XZArena" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
-              <item name="xz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XZArena" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="xz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XZArena" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="xz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XZArena" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="xz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XZArena" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="xz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XZArena" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="libs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tmp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tmp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jar" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="contestApplet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="contestApplet" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="contestApplet" type="462c0819:PsiDirectoryNode" />
+              <item name="editors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="contestApplet" type="462c0819:PsiDirectoryNode" />
+              <item name="editors" type="462c0819:PsiDirectoryNode" />
+              <item name="setup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="contestApplet" type="462c0819:PsiDirectoryNode" />
+              <item name="events" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="contestApplet" type="462c0819:PsiDirectoryNode" />
+              <item name="frames" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="contestApplet" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="contestApplet" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="topcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="netClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="arena-client-7.1.3.jar" type="ab9368bb:PsiFileNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="xz" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="xzarena" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="xz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549225564357" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549250878247" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -208,6 +575,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.XZArena [build]">
+    <configuration name="XZArena [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="XZArena [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -232,7 +618,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--debug" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -246,7 +632,7 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="XZArena [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="XZArena [classes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -257,7 +643,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="check" />
+            <option value="classes" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -265,38 +651,17 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="XZArena [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="/Users/alf/dev/XZArena/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/build.gradle" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
-          <list>
-            <option value="init" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="XZArena [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
           <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="jar" />
-          </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
@@ -305,11 +670,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.XZArena [buildDependents]" />
         <item itemvalue="Gradle.XZArena [build]" />
-        <item itemvalue="Gradle.XZArena [check]" />
-        <item itemvalue="Gradle.XZArena [init]" />
-        <item itemvalue="Gradle.XZArena [jar]" />
+        <item itemvalue="Gradle.XZArena [assemble]" />
+        <item itemvalue="Gradle./Users/alf/dev/XZArena/build.gradle" />
+        <item itemvalue="Gradle.XZArena [buildDependents]" />
+        <item itemvalue="Gradle.XZArena [classes]" />
       </list>
     </recent_temporary>
   </component>
@@ -320,22 +685,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549223071600</updated>
-      <workItem from="1549223076203" duration="2241000" />
+      <workItem from="1549223076203" duration="10535000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="XZArena_[check] - 2019.02.03 at 12h 56m 35s.xml">
+      <configuration name="XZArena [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2241000" />
+    <option name="totallyTimeSpent" value="10535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19329074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.32970297" />
       <window_info anchor="bottom" id="Terminal" />
@@ -346,7 +717,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,7 +725,7 @@
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" visible="true" weight="0.22470714" />
+      <window_info anchor="right" id="Gradle" visible="true" weight="0.14643237" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
@@ -363,25 +734,14 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cpp" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1535">
-          <caret line="311" selection-start-line="311" selection-end-line="311" />
         </state>
       </provider>
     </entry>
@@ -397,5 +757,324 @@
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2934">
+          <caret line="536" selection-start-line="536" selection-end-line="536" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/java/main/MyLogger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#787#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/netClient/Client.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#8584#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/netClient/NetMessageProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EditorPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="81" column="28" lean-forward="true" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/ContestApplet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="827" column="27" selection-start-line="827" selection-start-column="20" selection-end-line="827" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#33640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/common/Common.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10908">
+          <folding>
+            <element signature="e#0#27459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/common/LocalPreferences.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7583">
+          <folding>
+            <element signature="e#0#62617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/editors/EditorPlugin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#2828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/editors/PluginManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1473">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#5858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/netClient/ContestResponseHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1049">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#4998#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-shared-7.5.6.jar!/com/topcoder/shared/problem/Renderer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-shared-7.5.6.jar!/com/topcoder/shared/language/Language.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestant/ProblemComponentModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/java/main/XZArena.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#2555#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/editors/StandardPlugins.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <folding>
+            <element signature="e#0#1050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/editors/DynamicEditor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="169" column="16" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-shared-7.5.6.jar!/com/topcoder/shared/problem/ElementRenderer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-shared-7.5.6.jar!/com/topcoder/client/render/BaseRenderer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-shared-7.5.6.jar!/com/topcoder/client/render/ProblemComponentRenderer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/arena-client-7.1.3.jar!/com/topcoder/client/contestApplet/frames/CodingFrame.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="877" column="46" selection-start-line="877" selection-start-column="27" selection-end-line="877" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#45030#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/java/main/CodeGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/resources/main/tests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/XZArena.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xzarena.xz</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: org.hamcrest:hamcrest-core:1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

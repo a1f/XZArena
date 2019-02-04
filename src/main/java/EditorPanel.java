@@ -79,10 +79,10 @@ public class EditorPanel extends JPanel implements ActionListener {
         Object src = e.getSource();
         if (src == reloadConfigButton) {
             this.showLine("Reload configuration");
-//            xzArena.initialize();
+            xzArena.initialize();
         } else if (src == regenerateButton) {
             this.showLine("Generate code");
-            // xzArena.generateCode(true);
+             //xzArena.generateCode(true);
         }
     }
 

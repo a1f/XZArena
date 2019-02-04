@@ -12,7 +12,7 @@ import java.util.TreeMap;
 
 class CodeGenerator {
     final static String path = "/Users/alf/acm/alf/_/";
-    final static String PLUGIN_PATH = "/Users/alf/dev/TCPlugin/resources/";
+    final static String PLUGIN_PATH = "/Users/alf/dev/XZArena/build/resources/";
 
     static void generate(ProblemComponentModel problemComponentModel) {
         MyLogger.getInstance().log("CodeGenerator generate");
@@ -38,7 +38,7 @@ class CodeGenerator {
                 paramList
         );
         final String problemLetter = getProblemLetter(problemComponentModel.getPoints().intValue());
-        final int timeLimit = 0;//problemComponentModel.getComponent().getProblemCustomSettings().getExecutionTimeLimit();
+        final int timeLimit = problemComponentModel.getComponent().getProblemCustomSettings().getExecutionTimeLimit();
 
         MyLogger.getInstance().log("problemLetter " + problemLetter);
         MyLogger.getInstance().log("timeLimit " + timeLimit);
@@ -71,15 +71,15 @@ class CodeGenerator {
         if (paramNames.length == 0) {
             return "";
         }
-        StringBuilder res = new StringBuilder("");
+        StringBuilder res = new StringBuilder();
         for (String s : paramNames) {
             res.append(s).append(", ");
         }
         return res.substring(0, res.length() - 2);
     }
 
-    static String prepareParamList(String[] paramName, DataType[] paramType, DataType returnType) {
-        StringBuilder b = new StringBuilder("");
+    private static String prepareParamList(String[] paramName, DataType[] paramType, DataType returnType) {
+        StringBuilder b = new StringBuilder();
         for (int i = 0; i < paramName.length; ++i) {
             String type = prepareType(paramType[i]);
             b.append(type).append(" ").append(paramName[i]).append(" = get<").append(i).append(">(data);").append("\n");
@@ -89,7 +89,7 @@ class CodeGenerator {
         return b.toString();
     }
 
-    static String prepareExpect(boolean simpleResult) {
+    private static String prepareExpect(boolean simpleResult) {
         if (simpleResult) {
             return "EXPECT_EQ(result, expected);";
         } else {
@@ -97,16 +97,17 @@ class CodeGenerator {
         }
     }
 
-    static String prepareTestFile(String problemLetter, String samples, String timeLimit, String input,
-                                  String paramNamesInit, String outType, String paramNames, String inputAndOutput,
-                                  String className, String methodName, String expected) {
+    private static String prepareTestFile(String problemLetter, String samples, String timeLimit, String input,
+                                          String paramNamesInit, String outType, String paramNames, String inputAndOutput,
+                                          String className, String methodName, String expected) {
+        MyLogger.getInstance().log(String.format("Loading test from %s", PLUGIN_PATH + "main/tests.cpp"));
         Scanner scanner = null;
         try {
-            scanner = new Scanner(new FileInputStream(PLUGIN_PATH + "code_template/tests.cpp"));
+            scanner = new Scanner(new FileInputStream(PLUGIN_PATH + "main/tests.cpp"));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        TreeMap<String, String> regions = new TreeMap<String, String>();
+        TreeMap<String, String> regions = new TreeMap<>();
         regions.put("$$TL$$", timeLimit);
         regions.put("$$INPUT$$", input);
         regions.put("$$PARAM_NAMES_INIT$$", paramNamesInit);
@@ -118,7 +119,7 @@ class CodeGenerator {
         regions.put("$$CLASS_NAME$$", className);
         regions.put("$$METHOD_NAME$$", methodName);
         regions.put("$$EXPECT_REGION$$", expected);
-        StringBuilder result = new StringBuilder("");
+        StringBuilder result = new StringBuilder();
         while (true) {
             try {
                 String line = scanner.nextLine();
@@ -133,7 +134,7 @@ class CodeGenerator {
         return result.toString();
     }
 
-    static void writeTest(String problemLetter, String testContent) {
+    private static void writeTest(String problemLetter, String testContent) {
         try {
             PrintWriter out = new PrintWriter(path + "tc_" + problemLetter + "/tests.cpp");
             out.println(testContent);
@@ -143,7 +144,7 @@ class CodeGenerator {
         }
     }
 
-    static String replaceRegions(String line, TreeMap<String, String> regions) {
+    private static String replaceRegions(String line, TreeMap<String, String> regions) {
         for (String region : regions.keySet()) {
             if (line.contains(region)) {
                 line = line.replace(region, regions.get(region));
@@ -152,8 +153,8 @@ class CodeGenerator {
         return line;
     }
 
-    static String prepareSamples(String problemLetter, DataType returnType, DataType[] paramTypes, TestCase[] testCases) {
-        StringBuilder result = new StringBuilder("");
+    private static String prepareSamples(String problemLetter, DataType returnType, DataType[] paramTypes, TestCase[] testCases) {
+        StringBuilder result = new StringBuilder();
         for (int i = 0; i < testCases.length; ++i) {
             String[] testIO = getTestInfo(testCases[i], paramTypes, returnType);
             result.append("\n");
@@ -165,17 +166,17 @@ class CodeGenerator {
         return result.toString();
     }
 
-    static String[] getTestInfo(TestCase testCase, DataType[] paramTypes, DataType returnType) {
-        String[] params = new String[]{};//testCase.getInput();
+    private static String[] getTestInfo(TestCase testCase, DataType[] paramTypes, DataType returnType) {
+        String[] params = testCase.getInput();
         StringBuilder builder = new StringBuilder();
         for (int i = 0; i < params.length; ++i) {
             builder.append(getTestValue(params[i], paramTypes[i])).append(", ");
         }
         builder.delete(builder.length() - 2, builder.length());
-        return new String[]{builder.toString(), getTestValue(/*testCase.getOutput()*/"", returnType)};
+        return new String[]{builder.toString(), getTestValue(testCase.getOutput(), returnType)};
     }
 
-    static String getTestValue(String paramValue, DataType dataType) {
+    private static String getTestValue(String paramValue, DataType dataType) {
         if (isSimpleType(dataType)) {
             return paramValue;
         } else {
@@ -224,7 +225,7 @@ class CodeGenerator {
         }
     }
 
-    public static String getProblemLetter(int score) {
+    static String getProblemLetter(int score) {
         if (score > 650) {
             return "c";
         } else if (score < 400) {
@@ -233,7 +234,7 @@ class CodeGenerator {
         return "b";
     }
 
-    static String[] prepareParameterList(String[] names, DataType[] dataTypes) {
+    private static String[] prepareParameterList(String[] names, DataType[] dataTypes) {
         StringBuilder builder = new StringBuilder("");
         StringBuilder simpleInputParams = new StringBuilder("");
         for (int i = 0; i < names.length; ++i) {
@@ -254,12 +255,12 @@ class CodeGenerator {
         return new String[]{builder.toString(), simpleInputParams.toString()};
     }
 
-    static boolean isSimpleType(DataType dataType) {
+    private static boolean isSimpleType(DataType dataType) {
         int dimentions = dataType.getDimension();
         return dimentions == 0;
     }
 
-    static String prepareType(DataType dataType) {
+    private static String prepareType(DataType dataType) {
         String typeName = dataType.getBaseName();
         int dimentions = dataType.getDimension();
         if ("String".equals(typeName)) {
@@ -284,10 +285,10 @@ class CodeGenerator {
         return result.toString();
     }
 
-    static String generateSolution(final String className,
-                                   final String methodName,
-                                   final String returnType,
-                                   final String parameters) {
+    private static String generateSolution(final String className,
+                                           final String methodName,
+                                           final String returnType,
+                                           final String parameters) {
         return "class" + " " + className + " {" + "\n" +
                 "public:" + "\n" +
                 "// TC_REMOVE_BEGIN" + "\n" +
